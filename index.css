@@ -1,0 +1,6 @@
+.intro{
+  font-size: xx-large;
+  background: -webkit-linear-gradient(#d11111, #2933c0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
