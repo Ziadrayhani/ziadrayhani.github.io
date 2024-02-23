@@ -1,0 +1,27 @@
+.head{
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  border-width: 2px;
+  border-style: solid;
+align-items: center;
+}
+.box{
+  vertical-align: middle;
+  align-items: center;
+}
+p{
+  font-family: arial;
+}
+body{
+  background-color: #252526;
+  color: white;
+}
+
+.logo{
+  width: 100px;
+}
+.github{
+  width: 50px;
+  border-radius: 10%;
+}
